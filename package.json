@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1",
     "vue": "^3.0.0"
   },
   "devDependencies": {
@@ -15,7 +17,8 @@
     "@vue/cli-service": "~4.5.0",
     "@vue/compiler-sfc": "^3.0.0",
     "sass": "^1.26.5",
-    "sass-loader": "^8.0.2"
+    "sass-loader": "^8.0.2",
+    "socket.io-client": "^4.4.1"
   },
   "browserslist": [
     "> 1%",
